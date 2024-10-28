@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/7a/59/bd/7a59bdbb9fda77e065ab3926ee455c55.gif)]
+![MasterHead](https://i.pinimg.com/originals/7a/59/bd/7a59bdbb9fda77e065ab3926ee455c55.gif)
 <h1 align="center">Hi 👋, I'm Senchey Suon</h1>
 <h3 align="center">A 4th year Data Science student from Cambodia.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C5612AQG43LJ5CqcFNA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1622971872473?e=2147483647&v=beta&t=f_aIsQviW9DxBh0VOwAC4F7JpZy5bJu05e7njZe_0Ok">
